@@ -1,0 +1,7 @@
+pyrogram
+pytgcalls
+yt-dlp
+Pillow
+aiosqlite
+requests
+hachoir
